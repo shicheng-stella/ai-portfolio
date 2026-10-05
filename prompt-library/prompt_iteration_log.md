@@ -21,6 +21,7 @@ AI没有身份设定，没限制题型，输出太随意。下一轮我要加上
 
 **AI输出与问题：**
 <img width="1449" height="556" alt="5426acba17a9b861b76ba608c62c04b" src="https://github.com/user-attachments/assets/9b96ac0c-e47e-470d-acad-7813eef4b646" />
+<img width="1423" height="601" alt="0b3eb593668eaa92094409300724ec5" src="https://github.com/user-attachments/assets/176ae985-9edd-4906-a9f5-0a53e24e9403" />
 
 
 
